@@ -1,0 +1,33 @@
+
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home Page</title>
+
+</head>
+<body>
+<pagename>
+    {%block pagename%}
+    <h1>Главная страница</h1>
+    {%endblock%}
+</pagename>
+
+<menu>
+    {%block menu%}
+
+    <form action="http://127.0.0.1:8000" target="_self"><button class="btn">Главная</button></form>
+    <form action="http://127.0.0.1:8000/game/" target="_self"><button class="btn">Магазин</button></form>
+    <form action="http://127.0.0.1:8000/cart/" target="_self"><button class="btn">Корзина</button></form>
+    <form action="http://127.0.0.1:8000/sing/" target="_self"><button class="btn">Регистрация</button></form>
+    {%endblock%}
+</menu>
+
+<content>
+    {%block content%}
+    {%endblock%}
+</content>
+</body>
+</html>

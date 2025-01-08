@@ -1,0 +1,21 @@
+
+
+
+<!DOCTYPE html>
+{% extends "menu.html" %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ title }}</title>
+</head>
+    <body>
+        <h2>{{ headline }}</h2>
+        {%block menu%}
+            {{block.super}}
+        {%endblock%}
+
+        {%block content%}
+            {{block.super}}
+        {%endblock%}
+    </body>
+</html>
