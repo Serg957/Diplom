@@ -5,56 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ad1e486-c02b-472f-a3ed-e360ad3c9b13" name="Changes" comment="Диплом">
-      <change afterPath="$PROJECT_DIR$/Diplom/UrbanDjango_DB/QuerySet.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diplom/UrbanDjango_DB/UrbanDjango_DB/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diplom/UrbanDjango_DB/UrbanDjango_DB/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diplom/UrbanDjango_DB/UrbanDjango_DB/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diplom/UrbanDjango_DB/UrbanDjango_DB/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diplom/UrbanDjango_DB/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diplom/UrbanDjango_DB/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diplom/UrbanDjango_DB/task1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diplom/UrbanDjango_DB/task1/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diplom/UrbanDjango_DB/task1/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diplom/UrbanDjango_DB/task1/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diplom/UrbanDjango_DB/task1/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diplom/UrbanDjango_DB/task1/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diplom/UrbanDjango_DB/task1/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diplom/UrbanDjango_DB/task1/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diplom/UrbanDjango_DB/task1/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diplom/UrbanDjango_DB/templates/cart.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diplom/UrbanDjango_DB/templates/games.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diplom/UrbanDjango_DB/templates/menu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diplom/UrbanDjango_DB/templates/platform.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diplom/UrbanDjango_DB/templates/registration_page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diplom/app/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diplom/app/backend/db.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diplom/app/backend/db_depends.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diplom/app/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diplom/app/migrations/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diplom/app/migrations/env.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diplom/app/migrations/script.py.mako" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diplom/app/migrations/versions/12f9c99f2495_initial_migration.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diplom/app/models/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diplom/app/models/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diplom/app/models/user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diplom/app/routers/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diplom/app/routers/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diplom/app/routers/user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diplom/app/schemas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diplom/app/taskmanager.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diplom/flacon_app/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diplom/flacon_app/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diplom/flacon_app/instance/events.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diplom/flacon_app/templates/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diplom/flacon_app/templates/bootstrap/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diplom/flacon_app/templates/events.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diplom/flacon_app/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alembic.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Diplom.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Diplom.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/text" beforeDir="false" afterPath="$PROJECT_DIR$/Diplom/UrbanDjango_DB/UrbanDjango_DB/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,16 +44,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Python.__init__.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/PycharmProjectsmy/Diplom/Diplom",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/PycharmProjectsmy/Diplom/Diplom&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\PycharmProjectsmy\Diplom\Diplom" />
@@ -141,7 +92,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734380319651</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Диплом">
+      <option name="closed" value="true" />
+      <created>1736367388363</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1736367388363</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
