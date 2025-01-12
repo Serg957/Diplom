@@ -1,7 +1,7 @@
 
 from django.shortcuts import render
 from django.http import HttpResponse
-from task1.forms import UserRegister
+from .forms import UserRegister
 from .models import *
 
 
